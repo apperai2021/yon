@@ -1,0 +1,7 @@
+_For a detailed description of the protocol, please see the [whitepaper](https://hop.exchange/whitepaper.pdf)._
+
+### Overview
+
+The Hop protocol provides a scalable rollup-to-rollup General Token Bridge using a two-pronged approach:
+1. Create a cross-network bridge token that can be quickly and economically moved from rollup to rollup or claimed on layer-1 for its underlying asset.
+2. Use Automated Market Makers to swap between each bridge token and its corresponding Canonical Tokens on each rollup in order to dynamically price liquidity and incentivize the rebalancing of liquidity across the network.
